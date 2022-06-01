@@ -1,3 +1,4 @@
+
 nav
 {
  border: 5px black;
@@ -30,9 +31,5 @@ p
 }
 article
 {
-    width: 500px;
-    height: auto;
-border: 1px white;
-padding: 1px 2px 1px 2px;
-
+    display: auto;
 }
